@@ -1,1 +1,1 @@
-sdl2Test
+Simple quick hello world for figuring out how SDL2 worked with OpenGL
