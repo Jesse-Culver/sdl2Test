@@ -1,1 +1,1 @@
-Simple quick hello world for figuring out how SDL2 worked with OpenGL
+Simple quick hello world for figuring out how SDL2 worked
